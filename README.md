@@ -1,7 +1,7 @@
 # urxvt-transparency
 Shell script to toggle urxvt transparency
 # Usage
-* Replace all instances of "<USER>" with your username.
+* Replace all instances of "USER" with your username.
 * Make this script executable by running "chmod +x transparency.sh".
 * Execute the script by running "./transparency.sh".
 
